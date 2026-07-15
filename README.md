@@ -4,9 +4,7 @@
 
 BLE Insight is a professional-grade Android application designed for high-performance Bluetooth Low Energy (BLE) discovery. Built with a focus on clean architecture and reactive programming, it provides a real-time, Material 3 interface for scanning and analyzing nearby BLE devices.
 
-<img width="2437" height="1334" alt="geo_pulse_1" src="https://github.com/user-attachments/assets/7b28c07a-072f-4013-877f-25a927edb0ca" />
-<img width="3023" height="1334" alt="geo_pulse_2" src="https://github.com/user-attachments/assets/bb1bcfc0-cde1-4f2d-abac-14f147454932" />
-
+<img width="1536" height="1024" alt="ble_insight1" src="https://github.com/user-attachments/assets/934317b5-363c-4156-8f54-8f0bb768bda8" />
 
 ## 🚀 Key Features
 
